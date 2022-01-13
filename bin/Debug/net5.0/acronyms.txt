@@ -1,0 +1,3 @@
+TEST=Test
+ATM=Automatic Teller Machine
+WA=Western Australia

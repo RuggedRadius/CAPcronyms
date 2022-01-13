@@ -1,0 +1,16 @@
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\CAPcronyms.exe
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\CAPcronyms.deps.json
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\CAPcronyms.runtimeconfig.json
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\CAPcronyms.runtimeconfig.dev.json
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\CAPcronyms.dll
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\ref\CAPcronyms.dll
+C:\Users\Ben\Documents\GitHub\CAPcronyms\bin\Debug\net5.0\CAPcronyms.pdb
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.AssemblyInfoInputs.cache
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.AssemblyInfo.cs
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.dll
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\ref\CAPcronyms.dll
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.pdb
+C:\Users\Ben\Documents\GitHub\CAPcronyms\obj\Debug\net5.0\CAPcronyms.genruntimeconfig.cache
